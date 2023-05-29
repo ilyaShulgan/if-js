@@ -25,7 +25,7 @@ for (let i = 0; i < mass.length; i++) {
 console.log('------4-----');
 // 4
 const mas = [2, 5, 8, 15, 0, 6, 20, 3];
-for ( let i = 0; i < mas.length; i++) {
+for (let i = 0; i < mas.length; i++) {
   if (mas[i] > 5 && mas[i] < 10) {
     console.log(mas[i]);
   }
